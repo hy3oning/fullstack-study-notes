@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "104d9c783e849327",
+    "type": "split",
+    "children": [
+      {
+        "id": "06f7963e279d08a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7b8d85645586a0b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "무제 1.base",
+                "viewName": "표"
+              },
+              "icon": "lucide-table",
+              "title": "무제 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72f5a5834e4e03bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a1a563d41f5a1de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bea66493b3720a99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "678eb462fe25f20f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "3e1ca12b8b8e2a9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdeb2c92765341b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4f05a30809b1b48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdc8132b60c92656",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "환영합니다!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "환영합니다! 의 백링크"
+            }
+          },
+          {
+            "id": "9c04c486c79ba53a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "환영합니다!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "환영합니다! 의 나가는 링크"
+            }
+          },
+          {
+            "id": "1d01c5f02622af74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "97c24a431056b7a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "e196b28f8dbdbe8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "환영합니다!.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "환영합니다! 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "c7b8d85645586a0b",
+  "lastOpenFiles": [
+    "무제.base",
+    "무제 1.base",
+    "무제.canvas",
+    "CafeMenu.canvas",
+    "무제.md",
+    "무제/무제.base",
+    "DB",
+    "환영합니다!.md",
+    "2025-12-23.md",
+    "JAVA/메소드 method/인스턴스 메소드.md",
+    "JAVA/메모리/스택영역 (stack).md",
+    "JAVA/변수 Variable/매개 변수 (prarmeter).md",
+    "JAVA/객체지향/클래스/클래스의 구조.md",
+    "JAVA/메모리/메서드영역 (method).md",
+    "JAVA/인터페이스(interface).md",
+    "JAVA/객체지향/클래스/최상위 클래스 Object.md",
+    "이미지들/스크린샷 2025-12-14 213827.png",
+    "JAVA/객체지향/클래스/상속.md",
+    "JAVA/객체지향/객체란.md",
+    "JAVA/객체지향/객체의 타입변환.md",
+    "JAVA/객체지향/객체지향의 4대 특성.md",
+    "JAVA/객체지향/클래스/super와 super() 키워드.md",
+    "JAVA/메소드 method/Overriding.md",
+    "final==.md",
+    "JAVA/제어자/abstract/추상메서드 (abstract method).md",
+    "JAVA/제어자/abstract/추상 클래스 (abstract class).md",
+    "JAVA/제어자/abstract",
+    "JAVA/제어자/final.md",
+    "JAVA/상수 final.md",
+    "JAVA/제어자/Static.md",
+    "JAVA/변수 Variable/클래스 변수(static 변수).md",
+    "JAVA/변수 Variable/인스턴스 변수.md",
+    "GC.md",
+    "JAVA/메모리",
+    "Pasted image 20251214161455.png",
+    "JAVA/제어자",
+    "이미지들/스크린샷 2025-12-14 153403.png",
+    "JAVA/객체지향/클래스",
+    "JAVA/클래스 Class",
+    "JAVA/객체지향",
+    "이미지들",
+    "이미지들/스크린샷 2025-12-14 004512.png",
+    "이미지들/스크린샷 2025-12-14 004508.png",
+    "JAVA/제어문과 제어키워드/반복제어문/무제.canvas",
+    "스크린샷 2025-12-13 153457.png"
+  ]
+}
