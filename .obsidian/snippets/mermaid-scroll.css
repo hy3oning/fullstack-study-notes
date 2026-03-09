@@ -1,0 +1,11 @@
+.markdown-preview-view .mermaid,
+.markdown-rendered .mermaid {
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
+.markdown-preview-view .mermaid svg,
+.markdown-rendered .mermaid svg {
+  max-width: none !important;
+  height: auto !important;
+}
