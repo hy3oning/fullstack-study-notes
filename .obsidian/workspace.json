@@ -11,10 +11,14 @@
             "id": "a019383be58f44a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TRIPZONE PROJECT/TABLE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "TABLE"
             }
           }
         ]
@@ -181,10 +185,12 @@
   },
   "active": "a019383be58f44a4",
   "lastOpenFiles": [
-    "무제.base",
+    "CafeMenu.canvas",
+    "TRIPZONE PROJECT/TABLE.md",
     "무제 1.base",
     "무제.canvas",
-    "CafeMenu.canvas",
+    "무제.base",
+    "TRIPZONE PROJECT",
     "무제.md",
     "무제/무제.base",
     "DB",
@@ -213,15 +219,12 @@
     "JAVA/제어자/Static.md",
     "JAVA/변수 Variable/클래스 변수(static 변수).md",
     "JAVA/변수 Variable/인스턴스 변수.md",
-    "GC.md",
     "JAVA/메모리",
     "Pasted image 20251214161455.png",
     "JAVA/제어자",
     "이미지들/스크린샷 2025-12-14 153403.png",
     "JAVA/객체지향/클래스",
     "JAVA/클래스 Class",
-    "JAVA/객체지향",
-    "이미지들",
     "이미지들/스크린샷 2025-12-14 004512.png",
     "이미지들/스크린샷 2025-12-14 004508.png",
     "JAVA/제어문과 제어키워드/반복제어문/무제.canvas",
