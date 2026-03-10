@@ -678,7 +678,19 @@ COMMENT ON COLUMN USER_COUPON.REG_DATE IS '발급일';
 COMMENT ON COLUMN USER_COUPON.UPD_DATE IS '수정일';
  ```
  
- 
+ ```sql
+ -- =========================================  
+-- 공지 사항 테이블
+-- =========================================  
+create table notice(
+notice_no number not null,
+title varchar2(300) not null,
+writer varchar2(100) , not null
+content varchar2(3000) not null,
+reg_date date default sysdate,
+upd_date date default sysdate,  
+primary key (notice_no) );
+ ```
  
  
  
@@ -820,3 +832,9 @@ SYSDATE
 ```
 
 
+REVIEW_IMAGE  
+- review_image_no PK  
+- review_no FK  
+- image_url  
+- image_order  
+- reg_date
